@@ -1321,9 +1321,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 group-title="Redbox" tvg-id="Dove Channel" tvg-logo="https://i.imgur.com/cN4ESSg.png" tvg-name="",Dove Channel
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Redbox" tvg-id="Fail Army - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/RIXSg4L.png",Fail Army - github.com/Free-IPTV
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
-
 #EXTINF:-1 group-title="Redbox" tvg-id="FamilyFeud" tvg-logo="https://i.imgur.com/uwBpm1Y.png",FamilyFeud
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
 
@@ -1336,7 +1333,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 group-title="Redbox" tvg-id="FilmRise Forensic Files" tvg-logo="https://i.imgur.com/fX1PNxl.png",FilmRise Forensic Files
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Redbox" tvg-id="FilmRise Free Movies" tvg-logo="https://i.imgur.com/1fSHgSs.jpg",FilmRise Free Movies
+#EXTINF:-1 group-title="Redbox" tvg-id="FilmRise Movies" tvg-logo="https://i.imgur.com/1fSHgSs.jpg",FilmRise Free Movies
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="Redbox" tvg-id="FilmRise Mysteries" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Tf2AEadwL.png",FilmRise Mysteries
