@@ -2,7 +2,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 #EXTM3U
-#EXTINF:-1 tvg-id="KBMT.us" tvg-name="[COLORyellow]Geo-Locked..Set VPN To US[/COLOR]" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/r6nMlcQ.png" group-title="Local",12 News Beaumont TX (KBMT) (1080p)
+#EXTINF:-1 tvg-id="AAAAA" tvg-name="AAAAA" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/r6nMlcQ.png" group-title="Local",[COLORyellow]Geo-Blocked..Set VPN To US[/COLOR]
 https://
 #EXTINF:-1 tvg-id="KBMT.us" tvg-name="12 News Beaumont TX (KBMT)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/boVFg14.jpg" group-title="Local",12 News Beaumont TX (KBMT) (1080p)
 https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
