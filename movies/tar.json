@@ -1,6 +1,7 @@
   {
     "items": [   
-      {     "title": "Reservoir Dogs (1992)",
+	{   "type": "item",
+            "title": "Reservoir Dogs (1992)",
             "link": "search", 
             "year": "1992",
             "content": "movie",
@@ -33,7 +34,7 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
             "imdb_id": "" 
         },
-		{   "type": "item",
+       {   "type": "item",
             "title": "Once Upon a Time In Hollywood (2019)",
             "link": "search", 
             "year": "2019",
