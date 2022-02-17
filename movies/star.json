@@ -9,7 +9,7 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
             "imdb_id": "" 
         },
-		    {   "type": "item",
+        {   "type": "item",
             "title": "The Empire Strikes Back (1980)",
             "link": "search", 
             "year": "1980",
@@ -17,14 +17,86 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
             "imdb_id": "" 
         },
-		    {   "type": "item",
+        {   "type": "item",
             "title": "Return of the Jedi (1983)",
             "link": "search", 
             "year": "1983",
             "content": "movie",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg",
             "imdb_id": "" 
-        }
+        },
+	{   "type": "item",
+            "title": "Star Wars: The Force Awakens (2015)",
+            "link": "search", 
+            "year": "2015",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+            "imdb_id": "" 
+        },
+	{   "type": "item",
+            "title": "Star Wars: The Last Jedi (2017)",
+            "link": "search", 
+            "year": "2017",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+            "imdb_id": "" 
+        },
+	{   "type": "item",
+            "title": "Star Wars: The Rise of Skywalker (2019)",
+            "link": "search", 
+            "year": "2019",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+            "imdb_id": "" 
+        },  
+        {   "type": "item",
+            "title": "Star Wars: Episode I - The Phantom Menace (1999)",
+            "link": "search", 
+            "year": "1999",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+            "imdb_id": "" 
+        },  
+	{   "type": "item",
+            "title": "Star Wars: Episode II - Attack of the Clones (2002)",
+            "link": "search", 
+            "year": "2002",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+            "imdb_id": "" 
+        }, 
+	{   "type": "item",
+            "title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+            "link": "search", 
+            "year": "2005",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+            "imdb_id": "" 
+        }, 
+	{   "type": "item",
+            "title": "Rogue One: A Star Wars Story (2016)",
+            "link": "search", 
+            "year": "2016",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+            "imdb_id": "" 
+        }, 
+	{   "type": "item",
+            "title": "Solo: A Star Wars Story (2018)",
+            "link": "search", 
+            "year": "2018",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+            "imdb_id": "" 
+        }, 
+	{   "type": "item",
+            "title": "The Lego Star Wars Holiday Special (2020)",
+            "link": "search", 
+            "year": "2020",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
+            "imdb_id": "" 
+        } 
         
    ]
  }
