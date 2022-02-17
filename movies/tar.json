@@ -41,6 +41,14 @@
             "content": "movie",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
             "imdb_id": "" 
+        },
+	{   "type": "item",
+            "title": "Django Unchained (2012)",
+            "link": "search", 
+            "year": "2012",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+            "imdb_id": "" 
         }
    ]
 }
