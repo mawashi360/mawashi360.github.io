@@ -9,7 +9,6 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
             "imdb_id": "" 
         },
-        
         {   "type": "item",
             "title": "Rambo: First Blood Part II (1985)",
             "link": "search", 
@@ -18,7 +17,15 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pzPdwOitmTleVE3YPMfIQgLh84p.jpg",
             "imdb_id": "" 
         },
-		    {   "type": "item",
+	{   "type": "item",
+            "title": "Rambo III (1988)",
+            "link": "search", 
+            "year": "1988",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg",
+            "imdb_id": "" 
+        },
+        {   "type": "item",
             "title": "Rambo (2008)",
             "link": "search", 
             "year": "2008",
