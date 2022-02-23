@@ -37,6 +37,69 @@
             "content": "movie",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pc6Y42r8AGAT8iv7V24AkYdcbb8.jpg",
             "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "Batman Begins (2005)",
+            "link": "search", 
+            "year": "2005",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
+            "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "The Dark Knight (2008)",
+            "link": "search", 
+            "year": "2008",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "The Dark Knight Rises (2012)",
+            "link": "search", 
+            "year": "2012",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85cWkCVftiVs0BVey6pxX8uNmLt.jpg",
+            "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "Batman v Superman: Dawn of Justice (2016)",
+            "link": "search", 
+            "year": "2016",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+            "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "Suicide Squad (2016)",
+            "link": "search", 
+            "year": "2016",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
+            "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "Justice League (2017)",
+            "link": "search", 
+            "year": "2017",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+            "imdb_id": "" 
+        },
+        {
+            "type": "item",
+            "title": "Joker (2019)",
+            "link": "search", 
+            "year": "2019",
+            "content": "movie",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "imdb_id": "" 
         }
         
     ]
