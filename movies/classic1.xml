@@ -668,5 +668,21 @@
             <content>movie</content>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg</thumbnail>
 			</item>
+
+            <item>
+            <title>Stand by Me (1986)</title>
+            <link>search</link>
+            <year>1986</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>The Lost Boys (1987)</title>
+            <link>search</link>
+            <year>1987</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg</thumbnail>
+			</item>
             
         
