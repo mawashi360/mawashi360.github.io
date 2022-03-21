@@ -1,0 +1,102 @@
+{
+    "items": [
+    
+        {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://mad-eric.bitbucket.io/newrels.xml", 
+            "title": "[COLORyellow]New Movies[/COLOR]", 
+            "type": "dir"
+        },
+         {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/tvsel.json", 
+            "title": "[COLORyellow]New TV Shows[/COLOR]", 
+            "type": "dir"
+        },
+         {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://mad-eric.bitbucket.io/4k.xml", 
+            "title": "[COLORyellow]Classic 4K RD[/COLOR]", 
+            "type": "dir"
+        },
+        {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://mad-eric.bitbucket.io/brit.xml", 
+            "title": "[COLORyellow]British Cinema[/COLOR]", 
+            "type": "dir"
+        },
+         {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://mad-eric.bitbucket.io/fam.xml", 
+            "title": "[COLORyellow]Family Movies[/COLOR]", 
+            "type": "dir"
+        },
+         {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://mad-eric.bitbucket.io/com.xml", 
+            "title": "[COLORyellow]Comedy Shows[/COLOR]", 
+            "type": "dir"
+        },
+         {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/cons.xml", 
+            "title": "[COLORyellow]Live In Concert[/COLOR]", 
+            "type": "dir"
+        },
+        {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/wc.json", 
+            "title": "[COLORyellow]UK Soap Catchup[/COLOR]", 
+            "type": "dir"
+        },
+        {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/notvsel.json", 
+            "title": "[COLORyellow]TV Apps[/COLOR]", 
+            "type": "dir"
+        },
+        {
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/authnoone.json", 
+            "title": "[COLORyellow]Authorise Debrid[/COLOR]", 
+            "type": "dir"
+        },
+		{
+        
+            "fanart": "https://i.imgur.com/MDQ2sX1.jpg",
+            "thumbnail": "https://i.imgur.com/1UqsMnz.png",
+            "link": "if Addon.getSetting('movie_world')=='true':
+        aa=addDir3(Addon.getLocalizedString(32024),'www',2,BASE_LOGO+'basic.png',all_fanarts['32024'],'Movies')
+        all_d.append(aa)", 
+            "title": "[COLORyellow]Test[/COLOR]", 
+            "type": "dir"
+        }
+        
+       
+        
+      
+            
+        
+         
+    ]
+}
