@@ -78,9 +78,41 @@
             <content>movie</content>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg</thumbnail>
 			</item>
+
+
+            <item>
+            <title>Hancock (2008)</title>
+            <link>search</link> 
+            <year>2008</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>Air Force One (1997)</title>
+            <link>search</link> 
+            <year>1997</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/evO1iENjLpUnbwjnt5XK85jRYob.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>Heartbreak Ridge (1986)</title>
+            <link>search</link> 
+            <year>1986</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg</thumbnail>
+			</item>
+
+ 	    <item>
+            <title>Dirty Harry (1971)</title>
+            <link>search</link> 
+            <year>1971</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg</thumbnail>
+			</item>
             
-        
-           <item>
+            <item>
             <title>The Thing (1982)</title>
             <link>search</link> 
             <year>1982</year>
