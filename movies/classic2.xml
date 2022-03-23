@@ -13,6 +13,22 @@
             <content>movie</content>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg</thumbnail>
 			</item>
+
+            <item>
+            <title>Vanilla Sky (2001)</title>
+            <link>search</link> 
+            <year>2001</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>Minority Report (2002)</title>
+            <link>search</link> 
+            <year>2002</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg</thumbnail>
+			</item>
             
         
            <item>
@@ -24,25 +40,8 @@
 			</item>
             
         
-           <item>
-            <title>The Tomorrow War (2021)</title>
-            <link>search</link> 
-            <year>2014</year>
-            <content>movie</content>
-            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg</thumbnail>
-			</item>
-            
         
-           <item>
-            <title>Top Gun (1986)</title>
-            <link>search</link> 
-            <year>1986</year>
-            <content>movie</content>
-            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg</thumbnail>
-			</item>
-            
-        
-          <item>
+            <item>
             <title>Rain Man (1988)</title>
             <link>search</link> 
             <year>1988</year>
@@ -69,12 +68,28 @@
 			</item>
             
         
-          <item>
+            <item>
             <title>The Time Machine (1960)</title>
             <link>search</link> 
             <year>1960</year>
             <content>movie</content>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x3BOzx2rUc5c3gG9UCelzSxv8n4.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>The Time Machine (2002)</title>
+            <link>search</link> 
+            <year>2002</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>Hot Tub Time Machine (2010)</title>
+            <link>search</link> 
+            <year>2010</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wj1LJ8ehwevKVpDjFsDmbCkPyO9.jpg</thumbnail>
 			</item>
             
         
@@ -102,6 +117,14 @@
             <year>1956</year>
             <content>movie</content>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg</thumbnail>
+			</item>
+
+            <item>
+            <title>The Tomorrow War (2021)</title>
+            <link>search</link> 
+            <year>2014</year>
+            <content>movie</content>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg</thumbnail>
 			</item>
             
         
