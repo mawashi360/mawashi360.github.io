@@ -1,0 +1,41 @@
+{
+    "items": [   
+    
+    {
+            "type": "item", 
+            "title": "[COLORgold]Some Streams Only Be Active During Live Events[/COLOR]", 
+            "link": "https://", 
+            "thumbnail": "https://i.imgur.com/Cs0W7a1.png", 
+            "fanart": "https://i.imgur.com/wulr4GL.jpg"
+        },
+         {
+            "type": "item", 
+            "title": "Test 1", 
+            "link": "http://mjhgtrdhtyu.azureedge.net/streams/UFC/playlist.m3u8|Referer=http://crackstreams.biz/", 
+            "thumbnail": "https://i.imgur.com/Cs0W7a1.png", 
+            "fanart": "https://i.imgur.com/wulr4GL.jpg"
+        },
+         {
+            "type": "item", 
+            "title": "Test 2", 
+            "link": "http://mjhgtrdhtyu.azureedge.net/streams/76ers/playlist.m3u8|Referer=http://crackstreams.biz/", 
+            "thumbnail": "https://i.imgur.com/Cs0W7a1.png", 
+            "fanart": "https://i.imgur.com/wulr4GL.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "Test 3", 
+            "link": "http://5.161.97.197/live/abr_s-1/live/s-1/playlist.m3u8|Referer=http://www.ovostreams.com/", 
+            "thumbnail": "https://i.imgur.com/Cs0W7a1.png", 
+            "fanart": "https://i.imgur.com/wulr4GL.jpg"
+        },
+        {
+            "type": "item", 
+            "title": "Test 4", 
+            "link": "http://mjhgtrdhtyu.azureedge.net/streams/NESN/playlist.m3u8|Referer=http://crackstreams.biz/", 
+            "thumbnail": "https://i.imgur.com/Cs0W7a1.png", 
+            "fanart": "https://i.imgur.com/wulr4GL.jpg"
+        }
+      
+    ]
+}
