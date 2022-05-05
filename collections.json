@@ -1969,6 +1969,56 @@
             "type": "dir",
             "title": "Justice League Dark Collection",
             "link": "tmdb/collection/702342"
+        },
+         {
+            "type": "dir",
+            "title": "Chicken Run Collection",
+            "link": "tmdb/collection/718551"
+        },
+        {
+            "type": "dir",
+            "title": "Sonic the Hedgehog Collection",
+            "link": "tmdb/collection/720879"
+        },
+        {
+            "type": "dir",
+            "title": "Knives Out Collection",
+            "link": "tmdb/collection/722971"
+        },
+        {
+            "type": "dir",
+            "title": "Borat Moviefilms Collection",
+            "link": "tmdb/collection/747168"
+        },
+        {
+            "type": "dir",
+            "title": "Don't Breathe Collection",
+            "link": "tmdb/collection/748919"
+        },
+        {
+            "type": "dir",
+            "title": "The Addams Family (Animated) Collection",
+            "link": "tmdb/collection/750822"
+        },
+        {
+            "type": "dir",
+            "title": "LEGO Marvel Super Heroes Collection",
+            "link": "tmdb/collection/752937"
+        },
+        {
+            "type": "dir",
+            "title": "LEGO Jurassic World Collection",
+            "link": "tmdb/collection/752941"
+        },
+        {
+            "type": "dir",
+            "title": "Python Collection",
+            "link": "tmdb/collection/826762"
+        },
+        {
+            "type": "dir",
+            "title": "365 Days Collection",
+            "link": "tmdb/collection/829561"
         }
     ]
 }
