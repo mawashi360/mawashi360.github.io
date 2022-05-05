@@ -2019,6 +2019,36 @@
             "type": "dir",
             "title": "365 Days Collection",
             "link": "tmdb/collection/829561"
+        },
+        {
+            "type": "dir",
+            "title": "Steptoe and Son Collection",
+            "link": "tmdb/collection/871455"
+        },
+        {
+            "type": "dir",
+            "title": "Justice League (DC Universe Animated) Collection",
+            "link": "tmdb/collection/876125"
+        },
+        {
+            "type": "dir",
+            "title": "South Park: Post COVID Collection",
+            "link": "tmdb/collection/913392"
+        },
+        {
+            "type": "dir",
+            "title": "Beavis and Butt-Head Collection",
+            "link": "tmdb/collection/939227"
+        },
+        {
+            "type": "dir",
+            "title": "Beetlejuice Collection",
+            "link": "tmdb/collection/945475"
+        },
+        {
+            "type": "dir",
+            "title": "I Am Legend Collection",
+            "link": "tmdb/collection/945984"
         }
     ]
 }
