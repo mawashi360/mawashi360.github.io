@@ -1809,6 +1809,166 @@
             "type": "dir",
             "title": "Jumanji Collection",
             "link": "tmdb/collection/495527"
+        },
+        {
+            "type": "dir",
+            "title": "Planet of the Apes (TV Movie Collection)",
+            "link": "tmdb/collection/522562"
+        },
+        {
+            "type": "dir",
+            "title": "The Equalizer Collection",
+            "link": "tmdb/collection/523855"
+        },
+        {
+            "type": "dir",
+            "title": "Atomic Blonde Collection",
+            "link": "tmdb/collection/524837"
+        },
+        {
+            "type": "dir",
+            "title": "The Shining Collection",
+            "link": "tmdb/collection/530064"
+        },
+        {
+            "type": "dir",
+            "title": "Suicide Squad Collection",
+            "link": "tmdb/collection/531242"
+        },
+        {
+            "type": "dir",
+            "title": "The Angry Birds Collection",
+            "link": "tmdb/collection/531315"
+        },
+        {
+            "type": "dir",
+            "title": "Top Gun Collection",
+            "link": "tmdb/collection/531330"
+        },
+        {
+            "type": "dir",
+            "title": "Maleficent Collection",
+            "link": "tmdb/collection/531331"
+        },
+        {
+            "type": "dir",
+            "title": "Madea Collection",
+            "link": "tmdb/collection/534673"
+        },
+        {
+            "type": "dir",
+            "title": "Minions Collection",
+            "link": "tmdb/collection/544669"
+        },
+        {
+            "type": "dir",
+            "title": "Sing Collection",
+            "link": "tmdb/collection/544670"
+        },
+        {
+            "type": "dir",
+            "title": "Venom Collection",
+            "link": "tmdb/collection/558216"
+        },
+        {
+            "type": "dir",
+            "title": "Spider-Man: Spider-Verse Collection",
+            "link": "tmdb/collection/573436"
+        },
+        {
+            "type": "dir",
+            "title": "Aquaman Collection",
+            "link": "tmdb/collection/573693"
+        },
+        {
+            "type": "dir",
+            "title": "The Girl - Millennium Collection",
+            "link": "tmdb/collection/575987"
+        },
+        {
+            "type": "dir",
+            "title": "Live. Die. Repeat Collection",
+            "link": "tmdb/collection/578704"
+        },
+        {
+            "type": "dir",
+            "title": "Peter Rabbit Collection",
+            "link": "tmdb/collection/595693"
+        },
+        {
+            "type": "dir",
+            "title": "The Hitman's Bodyguard Collection",
+            "link": "tmdb/collection/608101"
+        },
+        {
+            "type": "dir",
+            "title": "Shaft (Reboot) Collection",
+            "link": "tmdb/collection/608103"
+        },
+        {
+            "type": "dir",
+            "title": "Doctor Strange Collection",
+            "link": "tmdb/collection/618529"
+        },
+        {
+            "type": "dir",
+            "title": "Bumblebee Collection",
+            "link": "tmdb/collection/623852"
+        },
+        {
+            "type": "dir",
+            "title": "Captain Marvel Collection",
+            "link": "tmdb/collection/623911"
+        },
+        {
+            "type": "dir",
+            "title": "Butch Cassidy and the Sundance Kid Collection",
+            "link": "tmdb/collection/625812"
+        },
+        {
+            "type": "dir",
+            "title": "Carlito's Way Collection",
+            "link": "tmdb/collection/625861"
+        },
+        {
+            "type": "dir",
+            "title": "Gregory's Girl Collection",
+            "link": "tmdb/collection/648242"
+        },
+        {
+            "type": "dir",
+            "title": "Hobbs & Shaw Collection",
+            "link": "tmdb/collection/688042"
+        },
+        {
+            "type": "dir",
+            "title": "Alfie Collection",
+            "link": "tmdb/collection/689670"
+        },
+        {
+            "type": "dir",
+            "title": "Teen Titans Go! Collection",
+            "link": "tmdb/collection/689974"
+        },
+        {
+            "type": "dir",
+            "title": "The Birds Collection",
+            "link": "tmdb/collection/690952"
+        },
+        {
+            "type": "dir",
+            "title": "Rocky Horror Collection",
+            "link": "tmdb/collection/694606"
+        },
+        {
+            "type": "dir",
+            "title": "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!",
+            "link": "tmdb/collection/701402"
+        },
+        {
+            "type": "dir",
+            "title": "Justice League Dark Collection",
+            "link": "tmdb/collection/702342"
         }
     ]
 }
