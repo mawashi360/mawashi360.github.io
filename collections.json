@@ -1699,6 +1699,116 @@
             "type": "dir",
             "title": "Blade Runner Collection",
             "link": "tmdb/collection/422837"
+        },
+        {
+            "type": "dir",
+            "title": "Trainspotting Collection",
+            "link": "tmdb/collection/424202"
+        },
+        {
+            "type": "dir",
+            "title": "Ouija Collection",
+            "link": "tmdb/collection/426103"
+        },
+        {
+            "type": "dir",
+            "title": "The Secret Life of Pets Collection",
+            "link": "tmdb/collection/427084"
+        },
+        {
+            "type": "dir",
+            "title": "Death Race Original Collection",
+            "link": "tmdb/collection/434533"
+        },
+        {
+            "type": "dir",
+            "title": "Fantastic Beasts Collection",
+            "link": "tmdb/collection/435259"
+        },
+        {
+            "type": "dir",
+            "title": "The Man from U.N.C.L.E. Collection",
+            "link": "tmdb/collection/435805"
+        },
+        {
+            "type": "dir",
+            "title": "Deadpool Collection",
+            "link": "tmdb/collection/448150"
+        },
+        {
+            "type": "dir",
+            "title": "Super Troopers Collection",
+            "link": "tmdb/collection/449462"
+        },
+        {
+            "type": "dir",
+            "title": "The Wolverine Collection",
+            "link": "tmdb/collection/453993"
+        },
+        {
+            "type": "dir",
+            "title": "Mamma Mia! Collection",
+            "link": "tmdb/collection/458558"
+        },
+        {
+            "type": "dir",
+            "title": "The Croods Collection",
+            "link": "tmdb/collection/464577"
+        },
+        {
+            "type": "dir",
+            "title": "Bachelor Party Collection",
+            "link": "tmdb/collection/466318"
+        },
+        {
+            "type": "dir",
+            "title": "The Incredibles Collection",
+            "link": "tmdb/collection/468222"
+        },
+        {
+            "type": "dir",
+            "title": "Wonder Woman Collection",
+            "link": "tmdb/collection/468552"
+        },
+        {
+            "type": "dir",
+            "title": "The Hitcher Collection",
+            "link": "tmdb/collection/476054"
+        },
+        {
+            "type": "dir",
+            "title": "DC Super Hero Girls Collection",
+            "link": "tmdb/collection/477208"
+        },
+        {
+            "type": "dir",
+            "title": "The Thing Collection",
+            "link": "tmdb/collection/479888"
+        },
+        {
+            "type": "dir",
+            "title": "Fist of Fury Collection",
+            "link": "tmdb/collection/479953"
+        },
+        {
+            "type": "dir",
+            "title": "Bad Moms Collection",
+            "link": "tmdb/collection/487376"
+        },
+        {
+            "type": "dir",
+            "title": "Paddington Collection",
+            "link": "tmdb/collection/488924"
+        },
+        {
+            "type": "dir",
+            "title": "The Trolls Collection",
+            "link": "tmdb/collection/489724"
+        },
+        {
+            "type": "dir",
+            "title": "Jumanji Collection",
+            "link": "tmdb/collection/495527"
         }
     ]
 }
