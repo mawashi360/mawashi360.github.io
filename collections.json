@@ -1669,6 +1669,36 @@
             "type": "dir",
             "title": "The Amityville Collection",
             "link": "tmdb/collection/397842"
+        },
+        {
+            "type": "dir",
+            "title": "Annabelle Collection",
+            "link": "tmdb/collection/402074"
+        },
+        {
+            "type": "dir",
+            "title": "Jack Reacher Collection",
+            "link": "tmdb/collection/403374"
+        },
+        {
+            "type": "dir",
+            "title": "John Wick Collection",
+            "link": "tmdb/collection/404609"
+        },
+        {
+            "type": "dir",
+            "title": "Superman (DC Universe Animated) Collection",
+            "link": "tmdb/collection/404770"
+        },
+        {
+            "type": "dir",
+            "title": "Wreck-It Ralph Collection",
+            "link": "tmdb/collection/404825"
+        },
+        {
+            "type": "dir",
+            "title": "Blade Runner Collection",
+            "link": "tmdb/collection/422837"
         }
     ]
 }
