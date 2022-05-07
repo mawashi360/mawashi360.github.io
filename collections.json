@@ -1377,11 +1377,6 @@
         },
         {
             "type": "dir",
-            "title": "War of the Worlds Collection",
-            "link": "tmdb/collection/201061"
-        },
-        {
-            "type": "dir",
             "title": "I Spit on Your Grave Collection",
             "link": "tmdb/collection/219691"
         },
@@ -2009,11 +2004,6 @@
             "type": "dir",
             "title": "LEGO Jurassic World Collection",
             "link": "tmdb/collection/752941"
-        },
-        {
-            "type": "dir",
-            "title": "Python Collection",
-            "link": "tmdb/collection/826762"
         },
         {
             "type": "dir",
