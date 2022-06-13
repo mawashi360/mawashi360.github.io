@@ -1,0 +1,1428 @@
+{
+    "items": [
+        {
+            "type": "unknown",
+            "title": "[COLORyellow]JoBlo Movie Trailers (Schwifty Only) Click Here!![/COLOR]",
+            "link": "plugin://plugin.video.youtube/channel/UCT37npEfScFdfHeiIOpFKJg/",
+            "thumbnail": "https://i.imgur.com/dn3xuf0.png"
+        },
+        {
+            "type": "item",
+            "title": "[COLORyellow]*** Debrid Links In Here-1080p And 4K Where Available ***[/COLOR]",
+            "link": "https://",
+            "thumbnail": "https://i.imgur.com/r6nMlcQ.png"
+        },
+        {
+            "type": "item",
+            "title": "Trees of Peace (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/727Gg0e.jpg",
+            "imdb": "tt11316680",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Chickenhare and the Hamster of Darkness (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/1a1ACVq.jpg",
+            "imdb": "tt12532368",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Walk (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/p5EiA4v.jpg",
+            "imdb": "tt11278608",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Peace by Chocolate (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/HymCY2Y.jpg",
+            "imdb": "tt11236228",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "I'm Charlie Walker (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/f7YwTLM.jpg",
+            "imdb": "tt3417110",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Score (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/KebEuqM.jpg",
+            "imdb": "tt10405022",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Attack on Finland (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/HEaqUnL.jpg",
+            "imdb": "tt11636880",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Downton Abbey: A New Era (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/E49tRd0.jpg",
+            "imdb": "tt11703710",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Hustle (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/1TAwXmd.jpg",
+            "imdb": "tt8009428",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Keeping Company (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/obwt5RI.jpg",
+            "imdb": "tt9657076",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Night Blooms (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/7dOheaZ.jpg",
+            "imdb": "tt9618458",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Oro Arrowhead (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/XxiERjR.jpg",
+            "imdb": "tt12233874",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "V for Vengeance (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/XVUJYNz.jpg",
+            "imdb": "tt15745084",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Siege of Robin Hood (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/iXKQQZo.jpg",
+            "imdb": "tt7558982",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Above Snakes (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/8wfGXPy.jpg",
+            "imdb": "tt11367378",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Tales from the Other Side (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/CDBW3kM.jpg",
+            "imdb": "tt16404438",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Unsheltered (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/WJGdVTd.jpg",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Unbearable Weight of Massive Talent (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/ce0QwEw.jpg",
+            "imdb": "tt11291274",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Spy Who Never Dies (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/ttKclkd.jpg",
+            "imdb": "tt11558688",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Last Seen Alive (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/LNfxd4g.jpg",
+            "imdb": "tt15004136",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Overnight (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/42qnmBL.jpg",
+            "imdb": "tt7042798",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Double Threat (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/e0hKbhg.jpg",
+            "imdb": "tt13302660",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "White Elephant (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/q818NGI.jpg",
+            "imdb": "tt14686544",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Fire Island (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/ZXH8K8Z.jpg",
+            "imdb": "tt15218000",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Interceptor (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/27ogzwU.jpg",
+            "imdb": "tt14174940",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Hollywood Stargirl (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/XR9YzTx.jpg",
+            "imdb": "tt14109994",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Wolf Hound (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/WIHYVcy.jpg",
+            "imdb": "tt7319486",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Unhuman (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/uA7H5ZV.jpg",
+            "imdb": "tt17221298",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Dashcam (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/G4pa0zJ.jpg",
+            "imdb": "tt15174116",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Promises (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/cuGsqP1.jpg",
+            "imdb": "tt10042788",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "My Dead Dad (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/JoRoMr9.jpg",
+            "imdb": "tt10773194",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Deep in the Forest (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/OCSxhiE.jpg",
+            "imdb": "tt11718696",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Row 19 (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/PKnM9YB.jpg",
+            "imdb": "tt12036270",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "A Small Fortune (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/4MSFbxc.jpg",
+            "imdb": "tt5915444",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Fantastic Beasts: The Secrets of Dumbledore (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/4ktElQn.jpg",
+            "imdb": "tt4123432",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Spitfire Over Berlin (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/iWVqmww.jpg",
+            "imdb": "tt13434866",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Father Stu (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/LXBFX6V.jpg",
+            "imdb": "tt14439896",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "There Are No Saints (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/8NDX1Qi.jpg",
+            "imdb": "tt1655444",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Zero Contact (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/p5ccKwB.jpg",
+            "imdb": "tt12359080",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Emergency (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/Mi7wVxy.jpg",
+            "imdb": "tt13650600",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Student Body (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/7DLhZYa.jpg",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Ricky Gervais: SuperNature (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/Bf9zVA3.jpg",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "So Cold the River (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/XkTI3wB.jpg",
+            "imdb": "tt2184390",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Captors (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/7DEaMiM.jpg",
+            "imdb": "tt8610036",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Zomblogalypse (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/6fYtZ2z.jpg",
+            "imdb": "tt2949508",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Paulie Go! (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/rwtGFu6.jpg",
+            "imdb": "tt14555908",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "County Line: All In (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/sljmHDA.jpg",
+            "imdb": "tt15141144",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Drive All Night (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/IcYHbpu.jpg",
+            "imdb": "tt11328534",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Save the Cinema (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/IpdSrha.jpg",
+            "imdb": "tt12048234",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "A Perfect Pairing (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/FN4MtpQ.jpg",
+            "imdb": "tt15215512",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Huntress of Auschwitz (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/FWpd1o1.jpg",
+            "imdb": "tt11981274",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Morbid Colors (2021)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/jtfMFxE.jpg",
+            "imdb": "tt9138804",
+            "content": "movie",
+            "year": "2021"
+        },
+        {
+            "type": "item",
+            "title": "Good Mourning (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/YSqUQh7.jpg",
+            "imdb": "tt15331186",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Dakota (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/bWapkax.jpg",
+            "imdb": "tt10241772",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Trip (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/Wl2jQZu.jpg",
+            "imdb": "tt10887736",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Torn Hearts (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/iX6X0KE.jpg",
+            "imdb": "tt15053518",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Dual (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/ourBnPK.jpg",
+            "imdb": "tt9005184",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Chip 'n Dale: Rescue Rangers (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/kuUPgVT.jpg",
+            "imdb": "tt3513500",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Valet (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/QpZJcss.jpg",
+            "imdb": "tt4081630",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Dark Cloud (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/F6lGMUH.jpg",
+            "imdb": "tt8130518",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Memory (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/77iMhf0.jpg",
+            "imdb": "tt11827628",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Ali & Ava (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/EVfkTO3.jpg",
+            "imdb": "tt11559472",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Everything Everywhere All at Once (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/TXpNDe2.jpg",
+            "imdb": "tt6710474",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Tyson's Run (2022)",
+            "link": "search",
+            "thumbnail": "https://everest.picturedent.org/images/2022/05/17/tmpposter20904.jpg",
+            "imdb": "tt14849038",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Vendetta (2022)",
+            "link": "search",
+            "thumbnail": "https://everest.picturedent.org/images/2022/05/17/tmpposter14734.jpg",
+            "imdb": "tt14849038",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "My Babysitter the Super Hero (2022)",
+            "link": "search",
+            "thumbnail": "https://everest.picturedent.org/images/2022/05/17/tmpposter28683.jpg",
+            "imdb": "tt7222308",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Eagle Wings (2022)",
+            "link": "search",
+            "thumbnail": "https://everest.picturedent.org/images/2022/05/17/tmpposter30260.jpg",
+            "imdb": "tt14188284",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Hollow (2022)",
+            "link": "search",
+            "thumbnail": "https://everest.picturedent.org/images/2022/05/17/tmpposter11410.jpg",
+            "imdb": "tt12474816",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Eraser: Reborn (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/6vx5h3G.jpg",
+            "imdb": "tt15422240",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Morbius (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/OieP8eK.jpg",
+            "imdb": "tt5108870",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Tankhouse (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/za73sQj.jpg",
+            "imdb": "tt10254960",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Private Property (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/RIOjOAd.jpg",
+            "imdb": "tt15167994",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "On the Count of Three (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/B31xR2c.jpg",
+            "imdb": "tt11160650",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Shark Bait (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/5BcOpeh.jpg",
+            "imdb": "tt12550376",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "We Need to Talk (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/GtjffM6.jpg",
+            "imdb": "tt10126368",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Monstrous (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/60ibPB6.jpg",
+            "imdb": "tt4624366",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Foxhole (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/1PWRTgp.jpg",
+            "imdb": "tt6272854",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Senior Year (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/0gOQJ0X.jpg",
+            "imdb": "tt5315212",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Sneakerella (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/g9NbX2H.jpg",
+            "imdb": "tt10160886",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Firestarter (2022)",
+            "link": [
+                "https://1fichier.com/?xrrx2s2onfgwx84mkn60([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/xZ3exxs.jpg",
+            "imdb": "tt1798632",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Northman (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/MW7Y1hS.jpg",
+            "imdb": "tt11138512",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Last Victim (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/n6nx3dr.jpg",
+            "imdb": "tt11242718",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Operation Mincemeat (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/3nflqLI.jpg",
+            "imdb": "tt1879016",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Fantastic Beasts: The Secrets of Dumbledore (2022) (HC)",
+            "link": [
+                "https://1fichier.com/?tz198nutzxmss41l1bmp",
+                "search"
+            ],
+            "thumbnail": "https://i.imgur.com/4ktElQn.jpg",
+            "imdb": "tt4123432",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Lockdown (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/nEIIiDC.jpg",
+            "imdb": "tt7758954",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Exposure 36 (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/7K4mp0w.jpg",
+            "imdb": "tt10518732",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Butter (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/ZdxoCNx.jpg",
+            "imdb": "tt6267600",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Devil's Tail (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/S3NVgT6.jpg",
+            "imdb": "tt14858146",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "They Talk (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/dMsY3Yp.jpg",
+            "imdb": "tt13894060",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Donkeyhead (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/cUt9M6Q.jpg",
+            "imdb": "tt14064072",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Evan Wood (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/jrgVFy9.jpg",
+            "imdb": "tt10919258",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Lost City (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/2pHiuhh.jpg",
+            "imdb": "tt13320622",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Highwayman (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/kGuC5I4.jpg",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Adventures of Maid Marian (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/D70YRdl.jpg",
+            "imdb": "tt14072910",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "4 Horsemen: Apocalypse (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/1k5ZZC6.jpg",
+            "imdb": "tt19766560",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Little Sorcerer (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/eC1KZnA.jpg",
+            "imdb": "tt14633194",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Marmaduke (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/B9nP6UG.jpg",
+            "imdb": "tt8746404",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Escape the Field (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/aGBCK5t.jpg",
+            "imdb": "tt11265320",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Suicide for Beginners (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/8LIjITV.jpg",
+            "imdb": "tt2505304",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Ella and the Little Sorcerer (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/eC1KZnA.jpg",
+            "imdb": "tt14633194",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Respect the Jux (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/KjT0vq6.jpg",
+            "imdb": "tt3310752",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Along for the Ride (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/yFhFQ0a.jpg",
+            "imdb": "tt14506528",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Twin (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/TWdRtyA.jpg",
+            "imdb": "tt12390572",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Sonic 2 (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:18B4DF03426697E5D540AA57D7F91AEEFC8C1378&dn=Sonic+the+Hedgehog+2+%282022%29+%5B1080p%5D+%5BYTS.MX%5D",
+                "magnet:?xt=urn:btih:e861f44d598cb1787a676f48ff2217e93ce378c8&dn=Sonic.the.Hedgehog.2.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG",
+                "magnet:?xt=urn:btih:ec6fba0a14eabf5d7dfb054a73c048d793f4ee87&dn=Sonic%20the%20Hedgehog%202.2022.1080p.WEB-DL.H264.AAC-EVO[TGx]",
+                "search"
+            ],
+            "thumbnail": "https://i.imgur.com/8xAHZpD.jpg",
+            "imdb": "tt12412888",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "BELLE (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/4qrmjzr.jpg",
+            "imdb": "tt13651628",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "I'm Sorry If I Took a Toll on You (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/8OJFa7Q.jpg",
+            "imdb": "tt14504496",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Black Site (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/JzyTQLq.jpg",
+            "imdb": "tt13918550",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Pride Jewel (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/zUwDepD.jpg",
+            "imdb": "tt14341802",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "A Thousand Little Cuts (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/LaBte0z.jpg",
+            "imdb": "tt11244558",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Stanleyville (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/h6AQei2.jpg",
+            "imdb": "tt9808268",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Breath (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/RY9GXjt.jpg",
+            "imdb": "tt8347960",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "All My Puny Sorrows (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/LORjebW.jpg",
+            "imdb": "tt13588156",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Inbetween Girl (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/MjifTA4.jpg",
+            "imdb": "tt11492176",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Scarborough (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/im15MYS.jpg",
+            "imdb": "tt12890988",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Dinosaur World (2022)",
+            "link": "search",
+            "thumbnail": "https://i.imgur.com/ZeWCYlm.jpg",
+            "imdb": "tt13670808",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Bad Guys (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:1b7c5d76dbfa4cf07b4f5f18657951dc72a01fb2&dn=The.Bad.Guys.2022.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-CMRG[TGx]([COLORgold]4K UHD[/COLOR])",
+                "magnet:?xt=urn:btih:905d9c1972685963f3fd49649c60fe93c362c9f2&dn=The.Bad.Guys.2022.1080p.AMZN.WEB-DL.DDP5.1.H264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/zas8vVK.jpg",
+            "imdb": "tt8115900",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Survive (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:f569d6dde4167d5b38f828459e8644a02d5635bc&dn=Survive.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/HiBGNh2.jpg",
+            "imdb": "tt17080412",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Aviary (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:246cc5daa12daf6438c77bec590e733514842196&dn=The.Aviary.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/tQNb99d.jpg",
+            "imdb": "tt17372462",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Marvelous and the Black Hole (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:e2ac07f36ed2ad4b97894757004246cb3da84bb5&dn=Marvelous.and.the.Black.Hole.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/xUUBTz1.jpg",
+            "imdb": "tt11389868",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Unplugging (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:33d1abf50ff97b48170f0f3f23855b7b7dbe2475&dn=Unplugging.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/OwtSPgT.jpg",
+            "imdb": "tt10314040",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Crush (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:c409ae6205225a70d0f8f0e1d018a0002b7a4378&dn=Crush.2022.1080p.HULU.WEB-DL.DDP5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/Xm0QdB2.jpg",
+            "imdb": "tt15096128",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Fortress: Sniper's Eye (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:eef2f85a8f17688ea77cd403b5f13411ec56e044&dn=Fortress.2.Snipers.Eye.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/wk3EQNx.jpg",
+            "imdb": "tt14577304",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Survivor (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:69deeea8e7300b70a67a77437b6e0251373dcf8b&dn=The%20Survivor.2022.1080p.WEB-DL.DDP5.1.H264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/pleK3LX.jpg",
+            "imdb": "tt9242528",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "365 Days: This Day (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:2e67e5f433c9c03ee51fb09f0713fbf745a117d7&dn=365.Days.This.Day.2022.1080p.NF.WEB-DL.DDP5.1.x264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/xXo8OZp.jpg",
+            "imdb": "tt12996154",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Silverton Siege (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:ce3f73a12c7dc0205c56c7e31703763392201819&dn=Silverton.Siege.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/iQUECRC.jpg",
+            "imdb": "tt18563148",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Dead by Midnight Y2Kill (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:7e2995fd3fe156d790aacadab78fd272f5e5323b&dn=Dead.by.Midnight.Y2Kill.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/9AM6JZh.jpg",
+            "imdb": "tt10639624",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Strictly for the Birds (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:7fd024887fff750ab6458471b89d2438d76c44f7&dn=Strictly.For.the.Birds.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/vGvK0k1.jpg",
+            "imdb": "tt11357606",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Hostile Territory (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:919dea922cdf6d0d85c1dd56d6ae6f632ec26e7d&dn=Hostile.Territory.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/AFDV4Td.jpg",
+            "imdb": "tt8859236",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "7 Days (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:2bb69ad40922a2e43ec0c940d88a67cd15e45b91&dn=7.Days.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/aVtmTkO.jpg",
+            "imdb": "tt14494586",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "What? (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:76b900fc7f38fba2a43a913ccd885fb6a7dd155b&dn=What.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/TJrZ6Pd.jpg",
+            "imdb": "tt10988894",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Children of Sin (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:f8e99d29b9ea5b5baae7ed30f1b98b700046e29c&dn=Children.of.Sin.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/RqvxRYI.jpg",
+            "imdb": "tt14926864",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Uncharted (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:362909ef9cf2f88b6e241a634225b06fc42c6d57&dn=Uncharted.2022.2160p.WEB-DL.DD5.1.HEVC-CMRG[TGx]([COLORgold]4K UHD[/COLOR])",
+                "magnet:?xt=urn:btih:c92a5024fc9821eb815e8e1c6fd16f99aec17b69&dn=Uncharted.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/wlvQNLA.jpg",
+            "imdb": "tt1464335",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "A Cowgirl's Song (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:dcc30ecb9440c56a6451b6d83ae98787c3efb4f0&dn=A.Cowgirls.Song.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/spTnytQ.jpg",
+            "imdb": "tt14771622",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "We're All Going to the World's Fair (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:c05f8d24f4a2645a89d2e395dc5aa8f2fd742484&dn=Were.All.Going.to.the.Worlds.Fair.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/XVXJ59f.jpg",
+            "imdb": "tt13648224",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "9 Bullets (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:0de07bda6fdb9bf3465d9cadd22978f2d6384764&dn=9.Bullets.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/LnyKOSW.jpg",
+            "imdb": "tt13680520",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Intervention (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:36bc6ba2208217199f31936c1beb0edee77ea80a&dn=Intervention.2022.1080p.WEB-DL.AAC2.0.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/oFw1Xx8.jpg",
+            "imdb": "tt13479822",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Ambulance (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:43dcb47edffb7801fcd3f99b7e083ebf89638f2a&dn=Ambulance.2022.2022.2160p.WEB-DL.DDP5.1.Atmos.H.265-EVO[TGx]([COLORgold]4K UHD[/COLOR])",
+                "magnet:?xt=urn:btih:11238efaac33deb82999d7161152d106ed5940d1&dn=Ambulance.2022.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/qdUU9Tk.jpg",
+            "imdb": "tt4998632",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Devil You Know (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:8165799576c15d0dd996a4a5ebde236a280b250c&dn=The.Devil.You.Know.2022.1080p.WEB-DL.DDP5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://everest.picturedent.org/images/2022/04/21/tmpposter20203.jpg",
+            "imdb": "tt14591594",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "Brut Force (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:1adbbb9c88a6688d99a48d8934c106d71d71a195&dn=Brut.Force.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/EL1OILU.jpg",
+            "imdb": "tt12476270",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Other Side of Darkness (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:53572bf9f4cfe091d0dbccce23de983094190e93&dn=The.Other.Side.of.Darkness.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/TCYhnKG.jpg",
+            "imdb": "tt13156466",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Godfather Buck (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:403777557f8a723727de396f8d6b128384ef344e&dn=The.Godfather.Buck.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/LuBq6D5.jpg",
+            "imdb": "tt13593766",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "7th Secret (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:a857e72ab74f2fef07d28836082770dcbe521e3c&dn=7th.Secret.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/cWk0syE.jpg",
+            "imdb": "tt4121086",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "DC Showcase: Constantine - The House of Mystery (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:73363a8b66e30ebcc948cb9fc916b4baa0cb83af&dn=Constantine%20The%20House%20of%20Mystery.2022.1080p.Bluray.DTS-HD.MA.5.1.X264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/twtLx6a.jpg",
+            "imdb": "tt18305072",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Batman (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:8c69e01bc2a81a558fe5844c26e570d46e08a0f0&dn=The.Batman.2022.2160p.SDR.WEB-DL.DDP5.1.x264-EVO[TGx([COLORgold]4K UHD[/COLOR])",
+                "magnet:?xt=urn:btih:08b9a4f93a41a19c1b413de82fd403d3979c80bd&dn=The.Batman.2022.1080p.WEB-DL.DDP5.1.x264-EVO[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/l1yafPv.jpg",
+            "imdb": "tt1877830",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "item",
+            "title": "The Nan Movie (2022)",
+            "link": [
+                "magnet:?xt=urn:btih:f5dd642dee023e104b5e9ea054fbc318ea4a61b4&dn=The.Nan.Movie.2022.1080p.WEB-DL.DD5.1.H.264-CMRG[TGx]([COLORlime]1080p[/COLOR])",
+                "search([COLORred]Search Multi-Link[/COLOR])"
+            ],
+            "thumbnail": "https://i.imgur.com/ep4qPE6.jpg",
+            "imdb": "tt10398318",
+            "content": "movie",
+            "year": "2022"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORyellow]>>>> Next Page >>>>>[/COLOR]",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/search2.xml",
+            "thumbnail": "https://i.imgur.com/r6nMlcQ.png"
+        }
+    ]
+}
