@@ -11,20 +11,20 @@
             "title": "Aston Villa",
             "link": "https://youtube.com/channel/UCICNP0mvtr0prFwGUQIABfQ"
         },
-		{ 		
+	    	{ 		
             "type": "dir", 
             "title": "Brentford Football Club",
             "link": "https://youtube.com/channel/UCAalMUm3LIf504ItA3rqfug"
         },
 		{ 		
             "type": "dir", 
-            "title": "Brighton & Hove Albion",
-            "link": "https://youtube.com/channel/UCf-cpC9WAdOsas19JHipukA"
+            "title": "Bournemouth",
+            "link": "https://youtube.com/channel/UCeOCuVSSweaEj6oVtJZEKQw"
         },
 		{ 		
             "type": "dir", 
-            "title": "Burnley Football Club",
-            "link": "https://youtube.com/channel/UChvUXuSDeEFSQZS8GcPMtkg"
+            "title": "Brighton & Hove Albion",
+            "link": "https://youtube.com/channel/UCf-cpC9WAdOsas19JHipukA"
         },
 		{ 		
             "type": "dir", 
@@ -40,6 +40,11 @@
             "type": "dir", 
             "title": "Everton",
             "link": "https://youtube.com/channel/UCtK4QAczAN2mt2ow_jlGinQ"
+        },
+	    	{ 		
+            "type": "dir", 
+            "title": "Fulham",
+            "link": "https://youtube.com/channel/UC2VLfz92cTT8jHIFOecC-LA"
         },
 		{ 		
             "type": "dir", 
@@ -71,10 +76,10 @@
             "title": "Newcastle United",
             "link": "https://youtube.com/channel/UCiHCtDNkX973fbSGq-XTriA"
         },
-		{ 		
+	    	{ 		
             "type": "dir", 
-            "title": "Norwich City",
-            "link": "https://youtube.com/channel/UCzdkZv6--BWsUQ9rKUtQ1TQ"
+            "title": "Nottingham Forest",
+            "link": "https://youtube.com/channel/UCyAxjuAr8f_BFDGCO3Htbxw"
         },
 		{ 		
             "type": "dir", 
@@ -86,12 +91,7 @@
             "title": "Spurs",
             "link": "https://youtube.com/channel/UCEg25rdRZXg32iwai6N6l0w"
         },
-		{ 		
-            "type": "dir", 
-            "title": "Watford FC",
-            "link": "https://youtube.com/channel/UCptKljTrbdMTgmuekGKhRug"
-        },
-		{ 		
+	{ 		
             "type": "dir", 
             "title": "West Ham United",
             "link": "https://youtube.com/channel/UCCNOsmurvpEit9paBOzWtUg"
