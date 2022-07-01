@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "type": "item",
+            "title": "GB News UK",
+            "link": "https://www.youtube.com/watch?v=7fIU2aMImMQ"
+        },
+        {
+            "type": "item",
+            "title": "Sky News UK",
+            "link": "https://www.youtube.com/watch?v=9Auq9mYxFEE"
+        },
+        {
+            "type": "item",
+            "title": "Euro News",
+            "link": "https://www.youtube.com/watch?v=sPgqEHsONK8"
+        },
+        {
+            "type": "item",
+            "title": "Al Jazeera English",
+            "link": "https://www.youtube.com/watch?v=F-POY4Q0QSI"
+        },
+        {
+            "type": "item",
+            "title": "NHK News Live",
+            "link": "https://www.youtube.com/watch?v=f0lYkdA-Gtw"
+        },
+        {
+            "type": "item",
+            "title": "NBC News Live",
+            "link": "https://www.youtube.com/watch?v=oBGFp6xWzo4"
+        },
+        {
+            "type": "item",
+            "title": "Bloomberg Live",
+            "link": "https://www.youtube.com/watch?v=dp8PhLsUcFE"
+        },
+        {
+            "type": "item",
+            "title": "France 24 Live",
+            "link": "https://www.youtube.com/watch?v=h3MuIUNCCzI"
+        }
+    ]
+}
