@@ -1,12 +1,10 @@
 {
     "items": [   
     
-    {
-            "type": "item", 
-            "title": "[COLORgold]Test[/COLOR]", 
-            "link": "https://", 
-            "thumbnail": "", 
-            "fanart": ""
+        {
+            "type": "dir", 
+            "title": "[COLORgold][B]Free Sports[/B][/COLOR]", 
+            "link": "https://mawashi360.github.io/freesport.xml" 
         }
         
       
