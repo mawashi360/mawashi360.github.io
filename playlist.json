@@ -4,7 +4,7 @@
         {
             "type": "item", 
             "title": "Test", 
-            "link": "http://d1g9ww8sds8sxt.cloudfront.net/hls/bts3/chunks.m3u8" 
+            "link": "http://d1g9ww8sds8sxt.cloudfront.net/hls/bts3/chunks.m3u8|Referer=http://d1g9ww8sds8sxt.cloudfront.net" 
         }
         
         
