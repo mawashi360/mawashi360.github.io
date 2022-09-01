@@ -2,8 +2,8 @@
     "items": [   
     
         {
-            "type": "item", 
-            "title": "Test", 
+            "type": "dir", 
+            "title": "Test1", 
             "link": "https://mad-eric.bitbucket.io/search.xml" 
         }
         
