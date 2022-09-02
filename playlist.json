@@ -10,12 +10,8 @@
             "type": "dir", 
             "title": "World News", 
             "link": "https://mawashi360.github.io/news.json" 
-        },
-        {
-            "type": "dir", 
-            "title": "Test", 
-            "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/7ebc4481de876a2541b4a9bdedb2dfd3a0c818f3/files/FTV-ENG" 
         }
+        
         
         
         
