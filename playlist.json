@@ -10,6 +10,11 @@
             "type": "dir", 
             "title": "World News", 
             "link": "https://mawashi360.github.io/news.json" 
+        },
+        {
+            "type": "plugin", 
+            "title": "Test", 
+            "link": "plugin://plugin.video.fluxus/mode=2&amp;name=Sports" 
         }
        
               
