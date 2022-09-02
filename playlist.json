@@ -10,6 +10,11 @@
             "type": "dir", 
             "title": "World News", 
             "link": "https://mawashi360.github.io/news.json" 
+        },
+        {
+            "type": "plugin", 
+            "title": "Fluxus", 
+            "link": "plugin://plugin.video.fluxus" 
         }
         
         
