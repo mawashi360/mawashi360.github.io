@@ -145,9 +145,6 @@ https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 #EXTINF:-1 tvg-logo="https://greyhoundbet.racingpost.com/img/racingpost-logo.png" group-title="Sports",Racing Post
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV English
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACrkgIH.png" group-title="Sports",Recoil TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
 
@@ -160,23 +157,11 @@ https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/61839
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9TJaXo.png" group-title="Fight Sports",Ring of Honor Wrestling
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/7/2015/05/rw-logo-sml@2x.png" group-title="Sports",Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="Sports",Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="Sports",Ski TV (Opt-2)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo.png" group-title="Sports",Sky Sports Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mk2lyPP.png" group-title="Sports",Slopes TV
 https://content.uplynk.com/channel/b24d76aa33a64c0390d5c75c2c7cda42.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Sports",Snowy Mountains Television
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTGknv3.png" group-title="Sports",Spark TV
 https://sparktv-samsunguk.amagi.tv/playlist.m3u8
@@ -189,12 +174,6 @@ https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3q0EEE.png" group-title="Sports",Sports Grid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3q0EEE.png" group-title="Sports",Sports Grid (Opt-2)
-https://a.jsrdn.com/broadcast/a70de04a56/-0100/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2YtbM9i.png" group-title="Sports",Sports TV Plus
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsportstvplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Sports",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
@@ -240,18 +219,6 @@ https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TjHg5nj.png" group-title="Sports",Whistle TV
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="Sports",William Hill BTV 1
-https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="Sports",William Hill BTV 2
-https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vl3D7FY.png" group-title="Sports",Wired2fish TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="Sports",World of Free Sports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Sports",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
