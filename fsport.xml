@@ -16,7 +16,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d0007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtaQszt.png" group-title="Sports",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Sports",Boxing
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Fight Sports",Boxing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="Sports",Capital OTB Betting
@@ -28,7 +28,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aR3rfJk.png" group-title="Sports",Channel Fight
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aR3rfJk.png" group-title="Fight Sports",Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" group-title="Sports",Chassy
@@ -46,22 +46,22 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fbebd6c1ed3cd231349ddc2" group-title="Sports",Fat Guys in the Woods
 https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports",Fight
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Fight Sports",Fight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xp4TTQd.png" group-title="Sports",Fight Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xp4TTQd.png" group-title="Fight Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXianm3.png" group-title="Sports",Fight Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXianm3.png" group-title="Fight Sports",Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="Sports",Fighting Spirit
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="Fight Sports",Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Sports",Fishing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/laYfzqJ.png" group-title="Sports",Fite
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laYfzqJ.png" group-title="Fight Sports",Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L5GoHb7.png" group-title="Sports",Football Daily
@@ -82,16 +82,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRSvhQP.png" group-title="Sports",Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iblm7lC.png" group-title="Sports",Glory Kickboxing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iblm7lC.png" group-title="Fight Sports",Glory Kickboxing
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="Sports",Gone Fishing Offshore
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastFishingOffshore30a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",Hard Knocks
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Fight Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",Hard Knocks (Opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Fight Sports",Hard Knocks (Opt-2)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d3be460a307a77f7e13" group-title="Sports",Highway Thru Hell
@@ -103,7 +103,7 @@ https://hncfree-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Sports",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYLyh2c.png" group-title="Sports",Impact Wrestling
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYLyh2c.png" group-title="Fight Sports",Impact Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Sports",Lax Sports Network TV
@@ -121,7 +121,7 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2020/04/MLS-Logo-White-1.png" group-title="Sports",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000727440831/97c2b19d95fcf45fa2a70e42cb66e113_400x400.jpeg" group-title="Sports",MMA Junkie
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000727440831/97c2b19d95fcf45fa2a70e42cb66e113_400x400.jpeg" group-title="Fight Sports",MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Sports",Motor
@@ -173,7 +173,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xUDjjID.png" group-title="Sports",Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W9TJaXo.png" group-title="Sports",Ring of Honor Wrestling
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9TJaXo.png" group-title="Fight Sports",Ring of Honor Wrestling
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/7/2015/05/rw-logo-sml@2x.png" group-title="Sports",Rugby World TV
@@ -215,7 +215,7 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsportstvplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Sports",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Fight Sports",Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Sports",Tennis Channel
@@ -224,7 +224,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="Sports",The Boat Show
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Boxing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Fight Sports",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Classic Sports
@@ -272,4 +272,4 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Sports",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Sports",World Poker Tour (Opt-2)
+
