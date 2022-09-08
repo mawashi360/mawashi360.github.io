@@ -1,10 +1,10 @@
 {
     "items": [   
     
-        {
+       {
             "type": "dir", 
-            "title": "Free To Air Sports", 
-            "link": "https://mawashi360.github.io/ftasports.json" 
+            "title": "WWE/AEW/UFC Replays", 
+            "link": "https://mawashi360.github.io/ufc.xml" 
         },
         {
             "type": "dir", 
