@@ -1,6 +1,17 @@
 {
     "items": [
-        
+         {
+            "type": "item",
+            "title": "UFC 279: Diaz vs. Ferguson: Prelims",
+            "link": "https://doodstream.com/d/rmh6a9ptw9b0",
+            "thumbnail": "https://i.imgur.com/qWt4awg.jpg"
+         },
+         {
+            "type": "item",
+            "title": "UFC 279: Diaz vs. Ferguson: Early Prelims",
+            "link": "https://doodstream.com/d/5dx46ia1wdgc",
+            "thumbnail": "https://i.imgur.com/qWt4awg.jpg"
+         },
          {
             "type": "item",
             "title": "WWE NXT: Level Up 09/09/2022",
