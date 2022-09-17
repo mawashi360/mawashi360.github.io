@@ -2,6 +2,18 @@
     "items": [
         {
             "type": "item",
+            "title": "AEW Rampage 16/09/2022",
+            "link": "https://dood.wf/d/68p3qzdgmgb3",
+            "thumbnail": "https://i.imgur.com/DdFeY4J.jpg"
+        },
+        {
+            "type": "item",
+            "title": "WWE SmackDown Live 16/09/2022",
+            "link": "https://dood.wf/d/si7g7wvycnk2",
+            "thumbnail": "https://i.imgur.com/rap9ndS.jpg"
+        },
+        {
+            "type": "item",
             "title": "AEW Dynamite 14/09/2022",
             "link": "https://dood.wf/d/a4g5a32c9977",
             "thumbnail": "https://i.imgur.com/MBkyIWw.jpg"
