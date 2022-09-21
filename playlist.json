@@ -3,19 +3,15 @@
     
        {
             "type": "dir", 
-            "title": "WWE/AEW/UFC Replays", 
-            "link": "https://mawashi360.github.io/ufc.json" 
+            "title": "Documentaries (W.I.P)", 
+            "link": "https://mawashi360.github.io/docu.xml" 
         },
         {
             "type": "dir", 
             "title": "World News", 
             "link": "https://mawashi360.github.io/news.json" 
-        },
-        {
-            "type": "dir", 
-            "title": "Test*", 
-            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/authnoone.json" 
         }
+        
        
        
               
