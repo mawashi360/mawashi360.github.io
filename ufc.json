@@ -2,6 +2,24 @@
     "items": [
          {
             "type": "item",
+            "title": "WWE NXT: Level Up 23/09/2022",
+            "link": "https://dood.wf/d/v3umppbrvivq",
+            "thumbnail": "https://i.imgur.com/xlbBQ8H.jpg"
+        },
+        {
+            "type": "item",
+            "title": "AEW Rampage 23/09/2022",
+            "link": "https://dood.wf/d/yzdyciceopvh",
+            "thumbnail": "https://i.imgur.com/DdFeY4J.jpg"
+        },
+        {
+            "type": "item",
+            "title": "WWE SmackDown Live 23/09/2022",
+            "link": "https://dood.wf/d/133mjdanch6m",
+            "thumbnail": "https://i.imgur.com/rap9ndS.jpg"
+         },
+         {
+            "type": "item",
             "title": "AEW Dynamite 21/09/2022",
             "link": "https://dood.wf/d/x271164rs2kk",
             "thumbnail": "https://i.imgur.com/MBkyIWw.jpg"
