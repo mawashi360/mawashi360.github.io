@@ -1,6 +1,12 @@
 {
     "items": [
-        {
+         {
+            "type": "item",
+            "title": "Sidney",
+            "link": "https://dood.wf/d/c0qqet5b8zlj",
+            "thumbnail": "https://i.imgur.com/mBdwjti.jpg"
+         },
+         {
             "type": "item",
             "title": "Backstreet Boys: Show Em What Youre Made Of",
             "link": "https://dood.wf/d/inzezjkc574b",
