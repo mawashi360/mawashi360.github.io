@@ -1,11 +1,6 @@
 {
     "items": [   
     
-       {
-            "type": "dir", 
-            "title": "Documentaries (W.I.P)", 
-            "link": "https://mawashi360.github.io/docu.json" 
-        },
         {
             "type": "dir", 
             "title": "World News", 
