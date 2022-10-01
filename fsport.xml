@@ -23,7 +23,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aR3rfJk.png" group-title="Fight Sports",Channel Fight
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ganAy3a.png" group-title="Motor Sports",Choppertown
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
