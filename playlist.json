@@ -5,6 +5,11 @@
             "type": "dir", 
             "title": "World News", 
             "link": "https://mawashi360.github.io/news.json" 
+        },
+        {
+            "type": "dir", 
+            "title": "Older Movie Lists", 
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/nr2.xml" 
         }
         
        
