@@ -121,7 +121,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d00096
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f6Gsgg.png" group-title="Sports",Nitro Circus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f6Gsgg.png" group-title="Motor Sports",Nitro Circus
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HVgaHJ.png" group-title="Sports",Outdoor America
