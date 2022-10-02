@@ -1,5 +1,17 @@
 {
     "items": [
+         {
+            "type": "item",
+            "title": "UFC Fight Night: Dern vs. Yan: Main",
+            "link": "https://dood.wf/d/5dorc7y2maoa",
+            "thumbnail": "https://i.imgur.com/H23VQpY.jpg"
+        },
+         {
+            "type": "item",
+            "title": "UFC Fight Night: Dern vs. Yan: Prelims",
+            "link": "https://dood.wf/d/jnhbhod4i7lt",
+            "thumbnail": "https://i.imgur.com/H23VQpY.jpg"
+        },
         {
             "type": "item",
             "title": "AEW Rampage 30/09/2022",
