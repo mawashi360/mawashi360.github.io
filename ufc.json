@@ -2,6 +2,18 @@
     "items": [
          {
             "type": "item",
+            "title": "UFC Fight Night: Grasso vs. Araujo: Main",
+            "link": "https://dood.wf/d/7be6vjkuk5vs",
+            "thumbnail": "https://i.imgur.com/zNkfOVy.jpg"
+         },
+         {
+            "type": "item",
+            "title": "UFC Fight Night: Grasso vs. Araujo: Prelims",
+            "link": "https://dood.wf/d/t1s8ia545dk7",
+            "thumbnail": "https://i.imgur.com/zNkfOVy.jpg"
+         },
+         {
+            "type": "item",
             "title": "AEW Rampage 14/10/2022",
             "link": "https://dood.wf/d/rysvdnzxy4w5",
             "thumbnail": "https://i.imgur.com/DdFeY4J.jpg"
