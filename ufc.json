@@ -2,6 +2,12 @@
     "items": [
          {
             "type": "item",
+            "title": "AEW Dynamite 18/10/2022",
+            "link": "https://dood.wf/d/i25nfkhdgmz1",
+            "thumbnail": "https://i.imgur.com/MBkyIWw.jpg"
+         },
+         {
+            "type": "item",
             "title": "AEW Dark 18/10/2022",
             "link": "https://dood.wf/d/a1wqz4ku27nu",
             "thumbnail": "https://i.imgur.com/oPBF6Xs.jpg"
