@@ -1,5 +1,23 @@
 {
     "items": [
+        {
+            "type": "item",
+            "title": "UFC 280: Oliveira vs. Makhachev: Main",
+            "link": "https://doodstream.com/d/15gf4hes12tv",
+            "thumbnail": "https://i.imgur.com/byTkDPr.jpg"
+         },
+         {
+            "type": "item",
+            "title": "UFC 280: Oliveira vs. Makhachev: Prelims",
+            "link": "https://doodstream.com/d/5mk2y917jrab",
+            "thumbnail": "https://i.imgur.com/byTkDPr.jpg"
+         },
+         {
+            "type": "item",
+            "title": "UFC 280: Oliveira vs. Makhachev: Early Prelims",
+            "link": "https://doodstream.com/d/paw1e3kfzbr4",
+            "thumbnail": "https://i.imgur.com/byTkDPr.jpg"
+         },
          {
             "type": "item",
             "title": "AEW Rampage 21/10/2022",
