@@ -1,6 +1,18 @@
 {
     "items": [
-        {
+         {
+            "type": "item",
+            "title": "WWE NXT Halloween Havoc: PPV",
+            "link": "https://doodstream.com/d/4zbgr00zgeud",
+            "thumbnail": "https://i.imgur.com/fKUq7JN.jpg"
+         },
+         {
+            "type": "item",
+            "title": "WWE NXT Halloween Havoc: Kickoff",
+            "link": "https://doodstream.com/d/l4fc6f0thcu0",
+            "thumbnail": "https://i.imgur.com/fKUq7JN.jpg"
+         },
+         {
             "type": "item",
             "title": "UFC 280: Oliveira vs. Makhachev: Main",
             "link": "https://doodstream.com/d/15gf4hes12tv",
