@@ -2,14 +2,14 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <dir>
-<title>Latest 4K Movies</title>
+<title>Latest Movies</title>
 <link>http://mawashi360.github.io/free4knew.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
-<title>Classic 4K Movies</title>
+<title>Classic Movies</title>
 <link>http://mawashi360.github.io/free4kclassic.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
