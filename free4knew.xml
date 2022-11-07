@@ -2,7 +2,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-<title>[COLORyellow]Some Movies May Take About 10 Seconds To Start[/COLOR]</title>
+<title>[COLORyellow]A Fast Intenet Speed Is Recommended[/COLOR]</title>
 <link>https://</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -76,7 +76,7 @@ item>
 <title>Bullet Train (2022)</title>
 <imdb>tt12593682</imdb>
 <link>
-sublink>https://racaty.net/3qjbbw4b2cwl([COLORyellow]UHD[/COLOR])</sublink>
+<sublink>https://racaty.io/3qjbbw4b2cwl([COLORyellow]UHD[/COLOR])</sublink>
 <sublink>https://wolfstream.tv/usq1ebzy1wy8/([COLORyellow]UHD[/COLOR])</sublink>
 </link>
 <thumbnail>https://i.imgur.com/zn1nKGH.jpg</thumbnail>
@@ -183,7 +183,7 @@ sublink>https://racaty.net/3qjbbw4b2cwl([COLORyellow]UHD[/COLOR])</sublink>
 <item>
 <title>Elvis (2022)</title>
 <link>
-sublink>https://racaty.net/605o0lb3cn47([COLORgold]High Kbps[/COLOR])</sublink>
+<sublink>https://racaty.io/605o0lb3cn47([COLORgold]High Kbps[/COLOR])</sublink>
 <sublink>https://wolfstream.tv/pbd2phqynpfg/([COLORgold]High Kbps[/COLOR])</sublink>  
 </link>  
 <thumbnail>https://i.imgur.com/gAh0jGg.jpg</thumbnail>
@@ -267,8 +267,10 @@ sublink>https://racaty.net/605o0lb3cn47([COLORgold]High Kbps[/COLOR])</sublink>
 <item>
 <title>Gigi & Nate (2022)</title>
 <imdb>tt10341196</imdb>
-<link>https://racaty.io/is9nok8tasv9</link>
-<link>https://clicknupload.club/bvbivzxnpvse</link>
+<link>
+<sublink>https://racaty.io/is9nok8tasv9</sublink>
+<sublink>https://clicknupload.club/bvbivzxnpvse</sublink>
+</link>
 <thumbnail>https://i.imgur.com/LDz2cIV.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -284,8 +286,10 @@ sublink>https://racaty.net/605o0lb3cn47([COLORgold]High Kbps[/COLOR])</sublink>
 <item>
 <title>Hex (2022)</title>
 <imdb>tt6969338</imdb>
-<link>https://racaty.io/r7gzxkzz1oau</link>
-<link>https://clicknupload.club/2v0wy02ifb1q</link>
+<link>
+<sublink>https://racaty.io/r7gzxkzz1oau</sublink>
+<sublink>https://clicknupload.club/2v0wy02ifb1q</sublink>
+</link>
 <thumbnail>https://i.imgur.com/4o8HSNu.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -430,8 +434,10 @@ sublink></sublink>
 <item>
 <title>See How They Run (2022)</title>
 <imdb>tt13640696</imdb>
-<link>https://racaty.io/rc39zx6fvz7t</link>
-<link>https://clicknupload.club/qg7553sa6ggw</link>
+<link>
+<sublink>https://racaty.io/rc39zx6fvz7t</sublink>
+<sublink>https://clicknupload.club/qg7553sa6ggw</sublink>
+<link>
 <thumbnail>https://i.imgur.com/2PJk0Kh.jpg</thumbnail>
 <fanart></fanart>
 </item>
