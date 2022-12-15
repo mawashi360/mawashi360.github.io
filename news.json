@@ -12,13 +12,23 @@
         },
         {
             "type": "item",
-            "title": "Euro News",
-            "link": "https://www.youtube.com/watch?v=sPgqEHsONK8"
+            "title": "Fox 4 Morning News",
+            "link": "https://www.youtube.com/watch?v=5deeFqCK5gQ"
         },
         {
             "type": "item",
-            "title": "Al Jazeera English",
-            "link": "https://www.youtube.com/watch?v=F-POY4Q0QSI"
+            "title": "NBC News Live",
+            "link": "https://www.youtube.com/watch?v=JjPY2ITmAeM"
+        },
+        {
+            "type": "item",
+            "title": "CBS News Live",
+            "link": "https://www.youtube.com/watch?v=R_gvY3uOXmc"
+        },
+        {
+            "type": "item",
+            "title": "Bloomberg Global Financial News",
+            "link": "https://www.youtube.com/watch?v=dp8PhLsUcFE"
         },
         {
             "type": "item",
@@ -27,13 +37,8 @@
         },
         {
             "type": "item",
-            "title": "NBC News Live",
-            "link": "https://www.youtube.com/watch?v=oBGFp6xWzo4"
-        },
-        {
-            "type": "item",
-            "title": "Bloomberg Live",
-            "link": "https://www.youtube.com/watch?v=dp8PhLsUcFE"
+            "title": "CNA 24/7 Live",
+            "link": "https://www.youtube.com/watch?v=XWq5kBlakcQ"
         },
         {
             "type": "item",
