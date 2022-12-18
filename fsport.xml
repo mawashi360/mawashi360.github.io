@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sports",Action Sports 4U
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoXWd6Q.jpg" group-title="Sports",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNL4FZt.png" group-title="Motor Sports",AutoMoto TV
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 
