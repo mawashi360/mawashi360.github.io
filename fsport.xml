@@ -28,6 +28,9 @@ https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2O0fY1.png" group-title="Sports",Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoXWd6Q.jpg" group-title="Sports",Edge Sports
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu19VR0.png" group-title="Sports",Epic M
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
 
