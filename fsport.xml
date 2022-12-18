@@ -25,6 +25,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ganAy3a.png" group-title="Motor Sports",Choppertown
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoXWd6Q.jpg" group-title="Fight Sports",Combate Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2O0fY1.png" group-title="Sports",Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
 
@@ -117,6 +120,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000727440831/97c2b19d95fcf45fa2a70e42cb66e113_400x400.jpeg" group-title="Fight Sports",MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000727440831/97c2b19d95fcf45fa2a70e42cb66e113_400x400.jpeg" group-title="Fight Sports",MMA Junkie (Opt-2)
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Motor Sports",Motor
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
