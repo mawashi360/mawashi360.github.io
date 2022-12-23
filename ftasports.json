@@ -3,8 +3,8 @@
     
         {
             "type": "item", 
-            "title": "Test 1", 
-            "link": "https://wealokjh.azureedge.net/live/s3/playlist.m3u8|Referer=http://weakstreams.com" 
+            "title": "Test 1*", 
+            "link": "http://185.53.89.183/hls/M1.m3u8" 
         },
         {
             "type": "item", 
