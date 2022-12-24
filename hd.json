@@ -1,0 +1,79 @@
+{
+    "items": [ 
+        {
+            "type": "dir", 
+            "title": "[COLORlime]Some Streams Only Active During Live Events[/COLOR]", 
+            "link": "http://" 
+        },
+        {
+            "type": "item", 
+            "title": "Sky Main Event", 
+            "link": "http://185.53.89.183/hls/M1.m3u8|Referer=http://maxsports.site/" 
+        },
+        {
+            "type": "item", 
+            "title": "Sky Main Event", 
+            "link": "https://live1.techstribes.com/techstribes/live/15.m3u8|Referer=https://groundedtechs.com/" 
+        },
+        {
+            "type": "item", 
+            "title": "Super Sport", 
+            "link": "https://ovocloud.site/live/abr_s-1/playlist.m3u8|Referer=https://www.ovostreams.com/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 1", 
+            "link": "https://hdstreamss.club:30443/live/ch1/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 2", 
+            "link": "https://hdstreamss.club:30443/live/ch2/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 3", 
+            "link": "https://hdstreamss.club:30443/live/ch3/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 4", 
+            "link": "https://hdstreamss.club:30443/live/ch4/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 5", 
+            "link": "https://hdstreamss.club:30443/live/ch5/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 6", 
+            "link": "https://hdstreamss.club:30443/live/ch6/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 7", 
+            "link": "https://hdstreamss.club:30443/live/ch7/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 8", 
+            "link": "https://hdstreamss.club:30443/live/ch8/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 9", 
+            "link": "https://hdstreamss.club:30443/live/ch9/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel A", 
+            "link": "https://lon1.angelthump.com/hls/MjAyMi0xMi0yNFQxMzo0NDoxNy41NTRabWFkZXJpYw==_maderic/index.m3u8|Referer=https://angelthump.com/" 
+        }
+        
+        
+        
+        
+   ]
+    
+}
