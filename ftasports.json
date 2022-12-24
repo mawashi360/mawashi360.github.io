@@ -38,7 +38,7 @@
         {
             "type": "item", 
             "title": "NFL Redzone", 
-            "link": "https://cacstrgagsf.azureedge.net/streams/REDZONE/chunks.m3u8" 
+            "link": "https://cacstrgagsf.azureedge.net/streams/REDZONE/chunks.m3u8|Referer=https://cacstrgagsf.azureedge.net/" 
         },
         {
             "type": "item", 
