@@ -37,6 +37,11 @@
         },
         {
             "type": "item", 
+            "title": "NFL Redzone", 
+            "link": "https://cacstrgagsf.azureedge.net/streams/REDZONE/chunks.m3u8" 
+        },
+        {
+            "type": "item", 
             "title": "HD Channel 1", 
             "link": "https://hdstreamss.club:30443/live/ch1/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
         },
