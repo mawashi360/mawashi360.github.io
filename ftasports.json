@@ -6,6 +6,11 @@
             "link": "http://" 
         },
         {
+            "type": "dir", 
+            "title": "[COLORlime]>>> HD Streams 1-35 >>>[/COLOR]", 
+            "link": "https://mawashi360.github.io/hd.json" 
+        },
+        {
             "type": "item", 
             "title": "Sky Main Event", 
             "link": "http://185.53.89.183/hls/M1.m3u8|Referer=http://maxsports.site/" 
