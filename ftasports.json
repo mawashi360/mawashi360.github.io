@@ -7,6 +7,11 @@
         },
         {
             "type": "dir", 
+            "title": "[COLORlime]>>>> EPL/EFL HD Streams 1-10 >>>>[/COLOR]", 
+            "link": "https://mawashi360.github.io/hdf.json" 
+        },
+        {
+            "type": "dir", 
             "title": "[COLORlime]>>>> NFL HD Streams 11-35 >>>>[/COLOR]", 
             "link": "https://mawashi360.github.io/hd.json" 
         },
