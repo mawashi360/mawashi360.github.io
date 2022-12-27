@@ -38,3 +38,86 @@
             "title": "Aston Villa v Liverpool", 
             "link": "http://cdn.raino.xyz/hls/stream1.m3u8|Referer=http://bdnewszh.com/" 
         },
+        {
+    "items": [ 
+        {
+            "type": "dir", 
+            "title": "[COLORlime]Some Streams Only Active During Live Events[/COLOR]", 
+            "link": "http://" 
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORlime]>>>> EPL/EFL HD Streams 1-10 >>>>[/COLOR]", 
+            "link": "https://mawashi360.github.io/hdf.json" 
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORlime]>>>> NFL/NBA HD Streams 11-35 >>>>[/COLOR]", 
+            "link": "https://mawashi360.github.io/hd.json" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "http://185.53.89.183/hls/M1.m3u8|Referer=http://maxsports.site/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "https://hdstreamss.club:30443/live/ch7/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8|Referer=https://ovocloud.site/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "http://snews.t4news.live/hls/S1.m3u8|Referer=http://tennews.live/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "https://nflarcadia.xyz/hls/s2.m3u8|Referer=https://techclips.net/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "https://reels2watch.com/hls/s2.m3u8|Referer=https://gamerarcades.com/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "https://leir.bongstreams.com/live/adaptive_bong-1/playlist.m3u8|Referer=http://bongstreams.com/" 
+        },
+        {
+            "type": "item", 
+            "title": "Arsenal v West Ham United", 
+            "link": "http://cdn.raino.xyz/hls/stream1.m3u8|Referer=http://bdnewszh.com/" 
+        },
+        {
+            "type": "item", 
+            "title": "Luton Town v Norwich City", 
+            "link": "https://hdstreamss.club:30443/live/ch6/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 8", 
+            "link": "https://hdstreamss.club:30443/live/ch8/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 9", 
+            "link": "https://hdstreamss.club:30443/live/ch9/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        },
+        {
+            "type": "item", 
+            "title": "HD Channel 10", 
+            "link": "https://hdstreamss.club:30443/live/ch10/playlist.m3u8|Referer=https://gameshdlive.xyz/" 
+        }
+       
+       
+          
+   ]
+    
+}
