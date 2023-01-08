@@ -7,7 +7,12 @@
         },
         {
             "type": "dir",
-            "title": "[COLORyellow]A Decent Internet Speed Is Recommended-Some Links Could Take 30 Seconds To Resolve[/COLOR]",
+            "title": "[COLORyellow]A Decent Internet Speed Is Recommended[/COLOR]",
+            "link": "https://"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORyellow]Some Links Could Take 30 Seconds To Resolve[/COLOR]",
             "link": "https://"
         },
         {
