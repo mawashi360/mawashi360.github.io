@@ -1,6 +1,11 @@
 {
     "items": [
         {
+            "type": "dir",
+            "title": "[COLORyellow]Currently Updating Streams-Some Could Be Hit & Miss[/COLOR] (2022)",
+            "link": "https://
+        },
+        {
             "type": "item",
             "title": "Accident Man 2 (2022)",
             "link": "https://wolfstream.tv/993m19k9xnne/",
@@ -34,13 +39,6 @@
             ],
             "thumbnail": "https://i.imgur.com/iDWGwrI.jpg",
             "imdb": "tt15791034"
-        },
-        {
-            "type": "item",
-            "title": "Batman and Superman: Battle of the Super Sons (2022)",
-            "link": "https://wolfstream.tv/0e76w214ljvm/",
-            "thumbnail": "https://i.imgur.com/PRy4WCP.jpg",
-            "imdb": "tt21197740"
         },
         {
             "type": "item",
@@ -79,8 +77,7 @@
             "type": "item",
             "title": "Bullet Train (2022)",
             "link": [
-                "https://racaty.io/3qjbbw4b2cwl([COLORyellow]UHD[/COLOR])",
-                "https://wolfstream.tv/usq1ebzy1wy8/([COLORyellow]UHD[/COLOR])"
+                "https://racaty.io/3qjbbw4b2cwl([COLORyellow]UHD[/COLOR])"
             ],
             "thumbnail": "https://i.imgur.com/zn1nKGH.jpg",
             "imdb": "tt12593682"
