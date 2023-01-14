@@ -47,8 +47,8 @@
         },
         {
             "type": "plugin",
-            "title": "Test**",
-            "link": "Plugin://plugin.video.youtube/playlist/PLf9O6B-f_J_RZKm3Xqy4lqppEZ3j-peXd/?page=0"
+            "title": "Test***",
+            "link": "plugin://plugin.video.youtube/?mode=playlist/PLf9O6B-f_J_RZKm3Xqy4lqppEZ3j-peXd/?page=0"
             
         }
 
