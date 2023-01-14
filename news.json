@@ -44,13 +44,8 @@
             "type": "item",
             "title": "France 24 Live",
             "link": "https://www.youtube.com/watch?v=h3MuIUNCCzI"
-        },
-        {
-            "type": "item",
-            "title": "Test6",
-            "link": "https://www.youtube.com/list?=PLviL5t4JOQSOP_WTCJs7VjZS32QxLEm_t"
-            
         }
+       
 
     ]
 }
