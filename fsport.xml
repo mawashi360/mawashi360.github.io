@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Test",Test
+#EXTINF:-0 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Test",Test
 https://mawashi360.github.io/replays.xml
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sports",Action Sports 4U
