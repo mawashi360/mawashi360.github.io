@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Replays Test",Replays Test
-https://mawashi360.github.io/replays.m3u
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sports",Action Sports 4U
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8
 
