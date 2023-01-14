@@ -44,6 +44,11 @@
             "type": "dir",
             "title": "NHL Classics",
             "link": "https://www.youtube.com/playlist_list=PLAr_WbjGaCm5Eo-nRTghr8M7SVL2VcrAo"
-        }
+        },
+        {
+			"type": "dir",
+			"title": "Fanzone",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fans.json"
+		}
     ]
 }
