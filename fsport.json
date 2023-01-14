@@ -5,6 +5,11 @@
             "title": "Free Sports Channels",
             "link": "https://mawashi360.github.io/fta2.xml"
         },
+	{
+            "type": "dir",
+            "title": "Best Of Boxing Full Fights",
+            "link": "https://www.youtube.com/playlist_list=PLgUHhO5naAvO0ns1HPzL59qb_2Ozks7nr"
+        },
         {
             "type": "dir",
             "title": "Boxing Replays",
