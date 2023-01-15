@@ -4,3 +4,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+<dir>
+<title>Test</title>
+<link>https://mawashi360.github.io/collections.json</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
