@@ -26,3 +26,10 @@
 <fanart></fanart>
 </dir>
 
+<dir>
+<title>By Network</title>
+<link>https://mawashi360.github.io/nets.json</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
