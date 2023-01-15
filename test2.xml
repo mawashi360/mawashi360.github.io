@@ -1,6 +1,27 @@
 <dir>
-<title>Test**</title>
+<title>Shows A To L</title>
+<tmdb>list/8205785</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Shows M To Z</title>
+<tmdb>tmdb/list/8200954</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Shows Starting With "The"</title>
 <tmdb>list/8207191</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Most Popular</title>
+<tmdb>tv/popular</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
