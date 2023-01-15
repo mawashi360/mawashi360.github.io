@@ -20,14 +20,14 @@
 </dir>
 
 <dir>
-<title>Most Popular</title>
+<title>Most Popular TV</title>
 <tmdb>tv/popular</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
-<title>My Top 100</title>
+<title>My Top 100 Movies</title>
 <tmdb>list/8196200</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
