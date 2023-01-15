@@ -32,20 +32,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
-
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-  <items>
-    <type>dir</type>
-    <title>[COLORlime]Any Debrid Service Works In This Section[/COLOR]</title>
-    <link>https://</link>
-  </items>
-  <items>
-    <type>dir</type>
-    <title>[COLORlime]&gt;&gt;&gt;&gt; Movie Collections &lt;&lt;&lt;&lt;-- Click!![/COLOR]</title>
-    <link>http://mawashi360.github.io/collections.json</link>
-  </items>
-  <items>
+<items>
     <type>dir</type>
     <title>[COLORyellow]Latest Movies[/COLOR]</title>
     <link>tmdb/movie/now_playing</link>
