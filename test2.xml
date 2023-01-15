@@ -27,9 +27,11 @@
 </dir>
 
 <dir>
-<title>By Network</title>
-<link>https://mawashi360.github.io/nets.json</link>
+<title>Top 100</title>
+<tmdb>list/8196200</tmdb>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
+
+
 
