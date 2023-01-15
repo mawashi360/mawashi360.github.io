@@ -44,6 +44,11 @@
             "type": "item",
             "title": "France 24 Live",
             "link": "https://www.youtube.com/watch?v=h3MuIUNCCzI"
+        },
+        {
+            "type": "dir",
+            "title": "Test",
+            "tmdb": "tv/112581"
         }
        
        
