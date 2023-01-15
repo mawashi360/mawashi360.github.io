@@ -33,5 +33,122 @@
 <fanart></fanart>
 </dir>
 
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <items>
+    <type>dir</type>
+    <title>[COLORlime]Any Debrid Service Works In This Section[/COLOR]</title>
+    <link>https://</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORlime]&gt;&gt;&gt;&gt; Movie Collections &lt;&lt;&lt;&lt;-- Click!![/COLOR]</title>
+    <link>http://mawashi360.github.io/collections.json</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Latest Movies[/COLOR]</title>
+    <link>tmdb/movie/now_playing</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Most Popular[/COLOR]</title>
+    <link>tmdb/movie/popular</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Best Picture Winners[/COLOR]</title>
+    <link>tmdb/list/28</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]My Top 100 Movies[/COLOR]</title>
+    <link>tmdb/list/8196200</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 Thrillers[/COLOR]</title>
+    <link>tmdb/list/43</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 Action Movies[/COLOR]</title>
+    <link>tmdb/list/8196264</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 Horror Movies[/COLOR]</title>
+    <link>tmdb/list/8196269</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 British Cinema[/COLOR]</title>
+    <link>tmdb/list/8196284</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 Comedy Movies[/COLOR]</title>
+    <link>tmdb/list/8196404</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 Sci-Fi Movies[/COLOR]</title>
+    <link>tmdb/list/8196435</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 100 Family Movies[/COLOR]</title>
+    <link>tmdb/list/8196492</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Top 250 Movies[/COLOR]</title>
+    <link>tmdb/list/634</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]The Marvel Universe[/COLOR]</title>
+    <link>tmdb/list/1</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]DC Comics Universe[/COLOR]</title>
+    <link>tmdb/list/3</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]The Avengers[/COLOR]</title>
+    <link>tmdb/list/5</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Star Trek Universe[/COLOR]</title>
+    <link>tmdb/list/32</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Alien Expanded Universe[/COLOR]</title>
+    <link>tmdb/list/33</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Middle Earth Universe[/COLOR]</title>
+    <link>tmdb/list/34</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Star Wars Universe[/COLOR]</title>
+    <link>tmdb/list/8196262</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]James Bond Collection[/COLOR]</title>
+    <link>tmdb/list/8196393</link>
+  </items>
+  <items>
+    <type>dir</type>
+    <title>[COLORyellow]Disney Collection[/COLOR]</title>
+    <link>tmdb/list/338</link>
+  </items>
+</root>
 
