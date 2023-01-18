@@ -642,6 +642,22 @@
 	<fanart>https://image.tmdb.org/t/p/original/a8230eNW59hSOkj5XrRpzMMh0WT.jpg</fanart>
 </item>
 <item>
+	<title>Legend</title>
+	<meta>
+	<imdb>tt3569230</imdb>
+	<content>movie</content>
+	<title>Legend</title>
+	<year>2015</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<summary>Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard "Nipper" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.</summary>
+	<thumbnail>https://i.imgur.com/bFec4Ge.jpg</thumbnail>
+	<fanart></fanart>
+</item>
+<item>
 	<title>Life of Brian</title>
 	<meta>
 	<imdb>tt0079470</imdb>
@@ -1216,6 +1232,22 @@
 	<summary>The real-life story of a friendship between two journalists, an American and a Cambodian, during the bloody Khmer Rouge takeover of Cambodia in 1975, which led to the death of 2-3 million Cambodians during the next four years, until Pol Pot's regime was toppled by the intervening Vietnamese in 1979.</summary>
 	<thumbnail>https://image.tmdb.org/t/p/original/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/kjEgZzhigOU6dZKGfw1oVOnmVId.jpg</fanart>
+</item>
+<item>
+	<title>The Krays</title>
+	<meta>
+	<imdb>tt0099951</imdb>
+	<content>movie</content>
+	<title>The Krays</title>
+	<year>1990</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<summary>The Krays is a film based on the lives and crimes of the British gangsters Ronald and Reginald Kray, twins who are often referred to as The Krays and were active in London in the 1960s.</summary>
+	<thumbnail>https://i.imgur.com/D5eiYja.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>The Last Bus</title>
