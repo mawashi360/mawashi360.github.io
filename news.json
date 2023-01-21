@@ -3,7 +3,12 @@
         {
             "type": "item",
             "title": "GB News UK",
-            "link": "https://www.youtube.com/watch?v=5SOmL-522CA"
+            "link": "https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8"
+        },
+         {
+            "type": "item",
+            "title": "Talk TV UK",
+            "link": "https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8"
         },
         {
             "type": "item",
