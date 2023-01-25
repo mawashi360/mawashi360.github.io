@@ -2,14 +2,16 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <item>
-	<title>28 Days Later*</title>
+	<title>28 Days Later**</title>
 	<meta>
 	<imdb>tt0289043</imdb>
 	<content>movie</content>
 	<title>28 Days Later</title>
 	<year>2002</year>
 	</meta>
-	<link>search</link>
+	<link>
+	<sublink>search</sublink>
+	</link>
 	<summary>Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.</summary>
 	<thumbnail>https://image.tmdb.org/t/p/original/sQckQRt17VaWbo39GIu0TMOiszq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/veUl0QT8swshQ9Dz0fQ1k6ZkthD.jpg</fanart>
