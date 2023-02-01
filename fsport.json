@@ -6,54 +6,9 @@
             "link": "https://mawashi360.github.io/fta2.xml"
         },
 	{
-            "type": "dir",
-            "title": "Best Of Boxing Full Fights",
-            "link": "https://www.youtube.com/playlist_list=PLgUHhO5naAvO0ns1HPzL59qb_2Ozks7nr"
-        },
-        {
-            "type": "dir",
-            "title": "Boxing Replays",
-            "link": "https://www.youtube.com/playlist_list=PLByySWmJBFh-xxSXUpRuk4UteeYzOhrug"
-        },
-        {
-            "type": "dir",
-            "title": "UFC Replays",
-            "link": "https://www.youtube.com/playlist_list=PLzJQdYyjfwBVG_WHB42-X8HyHmIMN5h0y"
-        },
-        {
-            "type": "dir",
-            "title": "Bellator Replays",
-            "link": "https://www.youtube.com/playlist_list=PLfbnS7oKXqsF-vU3FO7gnmifTtK5vmobT"
-        },
-        {
-            "type": "dir",
-            "title": "Classic Football Replays",
-            "link": "https://www.youtube.com/playlist_list=PLnaYFo37eXKUvS-SkkgHbMiKxFky4J7IX"
-        },
-        {
-            "type": "dir",
-            "title": "NFL Replays",
-            "link": "https://www.youtube.com/playlist_list=PLNbBj4TorBWdIU_4qVNKGWcpWuqDo_4GZ"
-        },
-        {
-            "type": "dir",
-            "title": "NBA Replays",
-            "link": "https://www.youtube.com/playlist_list=PLllsNH0YNeAh2gJMoxXum3xbOInd0BJME"
-        },
-        {
-            "type": "dir",
-            "title": "MLB Classics 1990 To 2021",
-            "link": "https://www.youtube.com/playlist_list=PLbbmEcFXHSnOHeJdpQr0K808cPVzP0t_B"
-        },
-        {
-            "type": "dir",
-            "title": "NHL Classics",
-            "link": "https://www.youtube.com/playlist_list=PLAr_WbjGaCm5Eo-nRTghr8M7SVL2VcrAo"
-        },
-        {
-			"type": "dir",
-			"title": "Fanzone",
-			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fans.json"
-		}
+	    "type": "dir",
+	    "title": "Fanzone",
+	    "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fans.json"
+       }
     ]
 }
