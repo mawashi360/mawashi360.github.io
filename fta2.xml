@@ -295,9 +295,6 @@ https://edgesport-samsungus.amagi.tv/playlist.m3u8
 https://edgesports-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Sports",EDGEsport  
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Sports",EDGEsport (US) 
-#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="World Sports",ERT Sports 2  [Geo-blocked]
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Sports",ERT Sports  [Geo-blocked]
 https://ertsports-live.ert.insyscd.net/out/v1/db0b54e8d25a47dcb336cf114c4d1860/ertsports-live.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="World Sports",ERT World 
