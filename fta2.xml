@@ -303,20 +303,6 @@ https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ThunderSports.hn" tvg-logo="https://thundersports.hn/wp-content/uploads/2021/12/cropped-cropped-1-2-e1639618808117-1.png" group-title="World Sports",Thunder Sports
 https://emisoras.hn:8081/tsh/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="World Sports",TNT Sports 2 Brasil  
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="World Sports",TNT Sports 3 Brasil 
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="World Sports",TNT Sports 4 Brasil  
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="World Sports",TNT Sports 5 Brasil  
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="TodoDeportesTV.hn" tvg-logo="https://i.imgur.com/afqIy2K.png" group-title="World Sports",Todo Deportes TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/tododeportesplus/
-#EXTINF:-1 tvg-id="TurfMovil.cl" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="World Sports",Turf Móvil 
-https://janus.tvturf.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="World Sports",Türkmenistan Sport (406p) 
-https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TV2Sport1.no" tvg-logo="https://i.imgur.com/asKHqNZ.png" group-title="World Sports",TV 2 Sport 1 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="World Sports",TVMatic Fight 
