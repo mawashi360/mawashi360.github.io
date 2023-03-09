@@ -306,4 +306,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Sports",ESR 24x7 eSports Network 
 https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Sports",beIN Sports Xtra
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
