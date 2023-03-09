@@ -305,4 +305,13 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Sports",beIN Sports Xtra
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-
+#EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="World Sports",FTV 
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="World Sports",fubo Sports Network 
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="GolfPBA.kr" tvg-logo="https://i.imgur.com/LCF2ALc.png" group-title="World Sports",Golf & PBA
+http://mytv.dothome.co.kr/ch/catv/25.php
+#EXTINF:-1 tvg-id="grvty.us" tvg-logo="https://i.imgur.com/7qPKYVh.png" group-title="World Sports",grvty 
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="World Sports",Hard Knocks  
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
